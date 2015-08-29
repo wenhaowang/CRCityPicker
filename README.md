@@ -3,6 +3,6 @@
 </p>
 
 # CRCityPicker
-CityPicker &lt;城市选择器>
+城市选择器
 
 Copyright@2015 Roger Abyss
