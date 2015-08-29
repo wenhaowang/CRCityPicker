@@ -24,7 +24,9 @@
     重庆主城区 
     Contact: roger_ren@qq.com
     
-    考虑换工作中, 坐标-> 重庆
+    考虑换工作ing...
+    me.applyJobForIOS(重庆,[10k,12k],!管理岗,{(Complany: string) -> string in 
+    return 17783039315});
     
 ===============
 #### USEAGE 使用
