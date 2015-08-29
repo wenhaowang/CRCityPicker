@@ -7,21 +7,25 @@
 //
 
 #import "ViewController.h"
+#import "CRCityPicker.h"
 
 @interface ViewController ()
-
+@property (nonatomic, strong) CRCityPicker* picker;
 @end
 
 @implementation ViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    // 在view 出现在window上后使用!真实情况不用考虑
+    dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(0.4 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+        _picker = [CRCityPicker showFromViewController:self choose:^(CRCity* city){
+            NSLog(@"Choose: %@",city.name);
+            
+            [_picker dismiss];
+        }];
+    });
 }
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
-
 @end
