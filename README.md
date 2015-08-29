@@ -6,9 +6,11 @@
 
 我的目标是, 一句话调用。
 
-Copyright@2015 Roger Abyss<br />
-任超,IOS研发工程师     重庆, 现任IOS研发部负责人<br />
-Contact: Roger_ren@qq.com<br />
+Copyright@2015 Roger Abyss
+
+任超,IOS研发工程师     
+重庆主城区
+Contact: Roger_ren@qq.com
 
 ===============
 >仿美团实现的城市选择器,也是项目需求驱动。<br />
