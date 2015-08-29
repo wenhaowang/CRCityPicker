@@ -30,6 +30,9 @@
     me.applyJobForIOS(重庆,[11k,15k],!管理岗,{(Complany: string) -> string in 
     return (任超,177830319315)});
     
+    me.myFramework.showDemo();
+    // https://github.com/RogerAbyss/ZGXL
+    
 ===============
 #### USEAGE 使用
 
