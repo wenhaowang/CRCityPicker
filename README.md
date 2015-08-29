@@ -4,12 +4,12 @@
 
 # CRCityPicker
 
-我的目标是, 一句话调用。
+我的目标是: 一句话调用,不想让你思考!
 
-Copyright@2015 Roger Abyss 
-任超,IOS研发工程师     
-重庆主城区 
-Contact: roger_ren@qq.com
+>Copyright@2015 Roger Abyss<br />
+>任超    IOS研发工程师<br />
+>重庆主城区<br /> 
+>Contact: roger_ren@qq.com<br />
 
 ===============
 >仿美团实现的城市选择器,也是项目需求驱动。<br />
