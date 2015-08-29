@@ -18,11 +18,12 @@
 
 
 ===============
-
-    Copyright@2015 Roger Abyss
-    任超        ,IOS研发工程师
-    重庆主城区 
-    Contact: roger_ren@qq.com
+    /*
+    * Copyright@2015 Roger Abyss
+    * 任超        ,IOS研发工程师
+    * 重庆               ,主城区
+    * Contact: roger_ren@qq.com
+    **/
     
     /** TODO: 吸引注意! */
     me.state = StatePersonalHealthy | StateCareerOnWorking | StateCareerWaitingToChangeAnotherJob;
