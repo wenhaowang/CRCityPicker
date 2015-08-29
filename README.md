@@ -26,7 +26,7 @@
     
     考虑换工作ing...
     me.applyJobForIOS(重庆,[10k,12k],!管理岗,{(Complany: string) -> string in 
-    return 17783039315});
+    return (任超,177830319315)});
     
 ===============
 #### USEAGE 使用
