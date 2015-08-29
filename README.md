@@ -31,7 +31,7 @@
     return (任超,177830319315)});
     
     me.myFramework.showDemo();
-    // https://github.com/RogerAbyss/ZGXL
+    output:https://github.com/RogerAbyss/ZGXL
     
 ===============
 #### USEAGE 使用
